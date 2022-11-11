@@ -46,10 +46,3 @@ $ python runserver.py
 
 **Google (Stock: GOOGL) Validation**
 ![GOOGLE_validation](src/static/images/googl_forecast_30day_validation.png)
-
-## Support
-
-If you like the work I do, show your appreciation by 'FORK', 'STAR' and 'SHARE'.
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
